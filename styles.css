@@ -1,36 +1,40 @@
-/*  your css code here. If applicable */
-table{
-	width:100%
-}
-title{
-	text-align:center
-}
-td{
-	padding:18px;
-	border:2px solid;
-	
-	
-}
-#left{
-	text-align:left;
-}
-#center{
-	text-align:center;
-}
-#right{
-	text-align:right;
-}
-#table2{
-	padding-top:10px;
+table {
+    width: 100%;
 }
 
-#green{
-	background-color:green
+title {
+    text-align: center;
 }
-#blue{
-	background-color:blue
+
+td {
+    padding: 18px;
+    border: 1px solid;
 }
-#t-image{
-	display:block;
-	margin:auto;
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+#table2 {
+    padding-top: 10px;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+#t-image {
+    text-align: center;
 }
