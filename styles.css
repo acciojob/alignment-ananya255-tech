@@ -2,6 +2,9 @@ table {
     width: 100%;
     border-spacing: 1px;
 }
+title{
+	text-align:center;
+}
 
 h1 {
     text-align: center;
