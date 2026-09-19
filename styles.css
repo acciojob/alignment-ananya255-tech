@@ -2,6 +2,9 @@
 table{
 	width:100%
 }
+title{
+	text-align:center
+}
 td{
 	padding:18px;
 	border:2px solid;
@@ -27,7 +30,7 @@ td{
 #blue{
 	background-color:blue
 }
-#imgg{
+#t-image{
 	display:block;
 	margin:auto;
 }
