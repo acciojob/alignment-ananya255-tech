@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+table{
+	width:100%
+}
+td{
+	padding:18px;
+	border:2px solid;
+	
+	
+}
+#left{
+	text-align:left;
+}
+#center{
+	text-align:center;
+}
+#right{
+	text-align:right;
+}
+#table2{
+	padding-top:10px;
+}
+
+#green{
+	background-color:green
+}
+#blue{
+	background-color:blue
+}
+#imgg{
+	display:block;
+	margin:auto;
+}
