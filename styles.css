@@ -1,14 +1,15 @@
 table {
     width: 100%;
+    border-spacing: 1px;
 }
 
-title {
+h1 {
     text-align: center;
 }
 
 td {
-    padding: 18px;
-    border: 1px solid;
+    padding: 1px;
+    border: 1px solid black;
 }
 
 .left {
@@ -23,15 +24,11 @@ td {
     text-align: right;
 }
 
-#table2 {
-    padding-top: 10px;
-}
-
-.green {
+#green {
     background-color: green;
 }
 
-.blue {
+#blue {
     background-color: blue;
 }
 
