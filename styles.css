@@ -3,11 +3,9 @@ table {
     border-spacing: 1px;
 }
 
-
 h1 {
     text-align: center;
 }
-
 
 td {
     padding: 1px;
@@ -26,11 +24,11 @@ td {
     text-align: right;
 }
 
-#green {
+.green {
     background-color: green;
 }
 
-#blue {
+.blue {
     background-color: blue;
 }
 
